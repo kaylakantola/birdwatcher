@@ -1,6 +1,6 @@
 # BirdWatcher 
 
-![chickadee](./images/chickadee.jpeg)
+![chickadee](./images/chickadee.png)
 
 An example repo showing how to write a Google Cloud Function that is:
 - Triggered by a PubSub 
@@ -78,4 +78,3 @@ You ...
 
 Good job!
 
-![chickadee success](./images/chicakdee-success.jpeg)
