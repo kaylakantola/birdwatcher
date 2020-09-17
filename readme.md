@@ -78,3 +78,4 @@ You ...
 
 Good job!
 
+![victory](./images/victory.png)
